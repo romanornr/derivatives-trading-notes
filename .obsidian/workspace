@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "3bbbe8b5ad001945",
+    "type": "split",
+    "children": [
+      {
+        "id": "184c8d82b353d3ff",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Devidents/settlement date.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5df5a49a79eb2896",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc020934b593d2d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3135f2aff27325d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "906cca811508eb76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f72445356e3d06cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fa2d6bb1b82ed11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2c60ac7a212f9a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Devidents/settlement date.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "184c8d82b353d3ff",
+  "lastOpenFiles": [
+    "Devidents/settlement date.md",
+    "README.md"
+  ]
+}
