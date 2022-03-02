@@ -5,7 +5,7 @@ The first day a stock trades without [[dividend]] rights.
 In the United States
 	-> the final day to acquire a dividend-paying stock is 3 business days before the [[Record date]]  
 	
-2 business days before the record date is the ex-dividend date.
+2 business days before the [[record date]] is the ex-dividend date.
 
 On the ex-dividend date
 	-> quotations for the stock will reflect that it is trading ex-dividend

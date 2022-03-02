@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dividends/Payable date.md",
+            "file": "Dividends/Record date.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dividends/Payable date.md",
+                "file": "Dividends/Record date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -88,12 +88,12 @@
   },
   "active": "184c8d82b353d3ff",
   "lastOpenFiles": [
-    "Dividends/Payable date.md",
-    "Dividends/Dividends.md",
-    "Dividends/Settlement date.md",
-    "Dividends/Ex-Dividend date.md",
     "Dividends/Record date.md",
+    "Dividends/Settlement date.md",
     "Dividends/Declared date.md",
+    "Dividends/Dividends.md",
+    "Dividends/Payable date.md",
+    "Dividends/Ex-Dividend date.md",
     "Dividends/ex-dividend-date.png",
     "README.md"
   ]
