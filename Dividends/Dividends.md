@@ -1,4 +1,4 @@
-# Dividents
+# Dividends
 
 A trader may be needed to examine derivative stock contracts and estimate future dividend payments from a company.
 
@@ -10,6 +10,6 @@ Some terms:
 
 [[Record date]]: The deadline for acquiring shares in order to collect dividends
 
-[[settlement date]]: Settlement date: The day the stock is transferred to the purchaser.
+[[Settlement date]]: Settlement date: The day the stock is transferred to the purchaser.
 
-
+[[Ex-Dividend Date]] (Ex-Date): The first day a stock trades without dividend rights

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Devidents/settlement date.md",
+            "file": "Dividends/Settlement date.md",
             "mode": "source",
             "source": false
           }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devidents/settlement date.md",
+                "file": "Dividends/Settlement date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,12 +84,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "184c8d82b353d3ff",
   "lastOpenFiles": [
-    "Devidents/settlement date.md",
-    "README.md"
+    "Dividends/Settlement date.md",
+    "README.md",
+    "Dividends/Record date.md",
+    "Dividends/Ex-Dividend Date.md",
+    "Dividends/Dividends.md",
+    "Dividends/Declared date.md"
   ]
 }
