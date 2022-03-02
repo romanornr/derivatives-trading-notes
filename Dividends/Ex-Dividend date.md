@@ -1,4 +1,4 @@
-### Ex-Dividend Date
+### Ex-Dividend date
 
 The first day a stock trades without [[dividend]] rights.
 

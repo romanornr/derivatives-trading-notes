@@ -12,4 +12,6 @@ Some terms:
 
 [[Settlement date]]: Settlement date: The day the stock is transferred to the purchaser.
 
-[[Ex-Dividend Date]] (Ex-Date): The first day a stock trades without dividend rights
+[[Ex-Dividend date]] (Ex-Date): The first day a stock trades without dividend rights
+
+[[Payable date]]  The day a dividend is payable to qualified investors.
