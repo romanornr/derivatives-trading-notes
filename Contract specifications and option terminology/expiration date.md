@@ -1,6 +1,6 @@
 ### expiration date 
 
-You have until the expiry date whether to purchase or sell a [[call option]]
+You have until the expiry date whether to purchase or sell a [[call option]] or [[put option]]
 	-> This is the "expiration date.
 	-> After the option contract expires, it loses all of its rights and obligations.
 <br>
