@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contract specifications and option terminology/call option.md",
+            "file": "Contract specifications and option terminology/expiration date.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contract specifications and option terminology/call option.md",
+                "file": "Contract specifications and option terminology/expiration date.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "184c8d82b353d3ff",
   "lastOpenFiles": [
-    "Contract specifications and option terminology/call option.md",
+    "Contract specifications and option terminology/expiration date.md",
     "Contract specifications and option terminology/futures contract.md",
+    "Contract specifications and option terminology/options.md",
+    "Contract specifications and option terminology/call option.md",
     "Contract specifications and option terminology/underlying.md",
     "Contract specifications and option terminology/put option.md",
     "Dividends/declared date.md",
     "Dividends/dividends.md",
     "Dividends/record date.md",
-    "Dividends/settlement date.md",
-    "Dividends/payable date.md",
-    "Dividends/ex-dividend date.md"
+    "Dividends/settlement date.md"
   ]
 }

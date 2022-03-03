@@ -1,5 +1,5 @@
 ### Options
-
+<br>
 Every option market brings traders and investors with varying expectations and objectives together.
 <br>
 -> Some traders approach the market having a preconceived notion about the direction in which prices will go.
@@ -35,4 +35,5 @@ If the buyer of an option decides to make or accept delivery
 	-> All rights and duties in option trading are with the buyer.
 <br>
 [[underlying]]: When you buy or sell an option, you will buy or sell a certain type of stock or commodity. This is the [[underlying]]
-
+<br>
+[[expiration date]]:
