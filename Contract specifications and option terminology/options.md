@@ -10,7 +10,6 @@ Every option market brings traders and investors with varying expectations and o
 <br>
 -> Some operate as intermediaries
 			-> buying and selling on behalf of other market players in the hope of profiting from the spread between the bid and ask prices.
-
 <br>
 While expectations and objectives vary
 	-> every trader's education should involve an awareness of option contract specifications and a command of the language used in the options markets.
@@ -36,4 +35,4 @@ If the buyer of an option decides to make or accept delivery
 <br>
 [[underlying]]: When you buy or sell an option, you will buy or sell a certain type of stock or commodity. This is the [[underlying]]
 <br>
-[[expiration date]]: You have until the expiry date whether buy or sell a [[call option]] or [[put option]]. This is the "expiration date.
+[[expiration date]]: You have until the expiry date whether buy or sell a [[call option]] or [[put option]]. This is the [[expiration date]]

@@ -1,4 +1,6 @@
 {
   "legacyEditor": false,
-  "livePreview": true
+  "livePreview": true,
+  "spellcheck": true,
+  "vimMode": true
 }

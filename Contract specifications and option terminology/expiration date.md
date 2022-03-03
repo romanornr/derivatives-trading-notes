@@ -30,3 +30,10 @@ To solve these large order imbalances
 -> Many stock index contracts have an expiration time of around 11:45 a.m
 -> If an option is for a single stock, it still has the traditional “PM” expiration date
 	-> which means how much that stock goes up or down determines how much that option is worth when it expires.
+
+<p>While stock options have a predetermined expiry date, futures options may have a different expiration date depending on the commodity or financial instrument to which they are connected.</p>
+<p>-> Delivery at maturity for futures on physical items, such as agricultural or energy products, may take a few days which is why they are named futures. </p>
+-> As a result, options on physical commodities futures sometimes expire many days or even weeks before the [[futures contract]] expires.
+<br>
+-> They often expire in the month before the futures month.
+February is the last month in which an option on a March contract may be exercised. June is the last month in which an option on a July contract may be exercised.

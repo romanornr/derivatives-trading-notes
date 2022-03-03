@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446
+    "width": 301
   },
   "right": {
     "id": "f72445356e3d06cb",
@@ -89,14 +89,14 @@
   "active": "184c8d82b353d3ff",
   "lastOpenFiles": [
     "Contract specifications and option terminology/expiration date.md",
-    "Contract specifications and option terminology/underlying.md",
-    "Contract specifications and option terminology/options.md",
-    "Contract specifications and option terminology/futures contract.md",
-    "Contract specifications and option terminology/call option.md",
     "Contract specifications and option terminology/put option.md",
+    "Contract specifications and option terminology/futures contract.md",
+    "Contract specifications and option terminology/options.md",
+    "Contract specifications and option terminology/call option.md",
+    "Contract specifications and option terminology/underlying.md",
+    "README.md",
     "Dividends/declared date.md",
     "Dividends/dividends.md",
-    "Dividends/record date.md",
-    "Dividends/settlement date.md"
+    "Dividends/record date.md"
   ]
 }
