@@ -1,12 +1,12 @@
 ### Ex-Dividend date
 
-The first day a stock trades without [[dividend]] rights.
+The first day a stock trades without [[dividends]] rights.
 
 In the United States
-	-> the final day to acquire a dividend-paying stock is 3 business days before the [[Record date]]  
-	
+	-> the final day to acquire a dividend-paying stock is 3 business days before the [[record date]]  
+	<br>
 2 business days before the [[record date]] is the ex-dividend date.
-
+<br>
 On the ex-dividend date
 	-> quotations for the stock will reflect that it is trading ex-dividend
 	-> all quotes will include the dividend amount reduced from the stock price.
@@ -20,10 +20,10 @@ If a stock closes at $67.50 the day before the ex-dividend date
 
 the stock’s price will be
 ```$68.25 + 1.15 ex-div 0.40.```
-
+<br>
 If the stock had opened unchanged
 	-> the price would have been $67.50 - $0.40 dividend
 			-> or $67.10
-	 
+<br>
  At $68.25
 	 -> the stock’s price increases by $1.15.

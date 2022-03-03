@@ -14,7 +14,6 @@ Every option market brings traders and investors with varying expectations and o
 <br>
 While expectations and objectives vary
 	-> every trader's education should involve an awareness of option contract specifications and a command of the language used in the options markets.
-
 <br>
 Without a firm grasp of the terms of an option contract, as well as the associated rights and obligations
 	-> a trader cannot expect to make the most use of options, nor will he be prepared for the very real dangers associated with trading.
@@ -24,9 +23,9 @@ Without proficiency in the options language
 <br>
 [[Call option]] : Gives the holder the right to purchase or take a long position in an asset at a specific price on or before a defined date.
 
-[[Put option]]: Is the right to sell an asset or get into a short position in it.
+[[put option]]: Is the right to sell an asset or get into a short position in it.
 
-[[Futures contract]]: Requires that the [[underlying]] asset must be delivered at a specific price.
+[[futures contract]]: Requires that the [[underlying]] asset must be delivered at a specific price.
 
 However, the purchaser of an option has a choice.
 He has the choice of accepting delivery (by [[call option]]) or delivering himself (a [[put option]]). 
@@ -35,5 +34,5 @@ If the buyer of an option decides to make or accept delivery
 	-> the seller must take the opposite side.
 	-> All rights and duties in option trading are with the buyer.
 <br>
-[[Underlying]]: When you buy or sell an option, you will buy or sell a certain type of stock or commodity. This is the [[Underlying]]
+[[underlying]]: When you buy or sell an option, you will buy or sell a certain type of stock or commodity. This is the [[underlying]]
 
