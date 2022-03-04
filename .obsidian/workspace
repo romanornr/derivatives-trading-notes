@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contract specifications and option terminology/expiration date.md",
+            "file": "Contract specifications and option terminology/strike price.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301
+    "width": 257
   },
   "right": {
     "id": "f72445356e3d06cb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contract specifications and option terminology/expiration date.md",
+                "file": "Contract specifications and option terminology/strike price.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 182
   },
   "active": "184c8d82b353d3ff",
   "lastOpenFiles": [
-    "Contract specifications and option terminology/expiration date.md",
-    "Contract specifications and option terminology/put option.md",
+    "Contract specifications and option terminology/strike price.md",
+    "Contract specifications and option terminology/exercise and assignment.md",
+    "Contract specifications and option terminology/strike-price-option-contract-specifications.png",
     "Contract specifications and option terminology/futures contract.md",
     "Contract specifications and option terminology/options.md",
-    "Contract specifications and option terminology/call option.md",
+    "Dividends/payable date.md",
+    "Contract specifications and option terminology/expiration date.md",
     "Contract specifications and option terminology/underlying.md",
-    "README.md",
-    "Dividends/declared date.md",
-    "Dividends/dividends.md",
-    "Dividends/record date.md"
+    "Contract specifications and option terminology/put option.md",
+    "Contract specifications and option terminology/call option.md"
   ]
 }

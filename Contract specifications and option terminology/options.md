@@ -36,3 +36,7 @@ If the buyer of an option decides to make or accept delivery
 [[underlying]]: When you buy or sell an option, you will buy or sell a certain type of stock or commodity. This is the [[underlying]]
 <br>
 [[expiration date]]: You have until the expiry date whether buy or sell a [[call option]] or [[put option]]. This is the [[expiration date]]
+<br>
+[[strike price]]: The price at which the holder of the [[options]] can buy the [[underlying]] or sell the option.
+<br>
+[[exercise and assignment]]: 
