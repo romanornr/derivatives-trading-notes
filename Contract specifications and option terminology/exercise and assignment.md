@@ -1,8 +1,8 @@
 
 ### exercise and assignment 
 <br>
-The exercise price of [[options]] is the price at which the option may be exercised
--> while the [[strike price]] is the price at which the underlying contract is purchased or sold.  
+The [[exercise price]] of [[options]] is the price at which the option may be exercised
+-> while the [[strike price]] is the price at which the [[underlying]] contract is purchased or sold.  
 <br>
 A [[call option]] is a contract that gives the buyer the right to acquire a stock at a specific price within a specified period, known as the [[expiration date]]
 <br>
@@ -58,7 +58,7 @@ When a trader exercises an option
 
 -> Further, the exchange's decision on who will be assigned is almost entirely based on chance, with no trader having a better or worse chance of being assigned than another.
 <br>
-<p>There are a lot of new traders who get mixed up about whether the exercise and assignment leads to a long or short position (selling the underlying contract).</p>
+<p>There are a lot of new traders who get mixed up about whether the exercise and assignment leads to a long or short position (selling the [[[[underlying]]]] contract).</p>
 
 Depending on the [[[underlying]] contract, when an exchange-traded option
 is exercised, it can settle into: 

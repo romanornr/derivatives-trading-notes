@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contract specifications and option terminology/strike price.md",
+            "file": "Contract specifications and option terminology/settlement into the physical underlying.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contract specifications and option terminology/strike price.md",
+                "file": "Contract specifications and option terminology/settlement into the physical underlying.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "184c8d82b353d3ff",
   "lastOpenFiles": [
-    "Contract specifications and option terminology/strike price.md",
-    "Contract specifications and option terminology/exercise and assignment.md",
-    "Contract specifications and option terminology/strike-price-option-contract-specifications.png",
-    "Contract specifications and option terminology/futures contract.md",
+    "Contract specifications and option terminology/settlement into the physical underlying.md",
+    "Contract specifications and option terminology/exercise price.md",
     "Contract specifications and option terminology/options.md",
-    "Dividends/payable date.md",
+    "Contract specifications and option terminology/exercise and assignment.md",
     "Contract specifications and option terminology/expiration date.md",
+    "Contract specifications and option terminology/strike price.md",
+    "Contract specifications and option terminology/settlement into the futures position.md",
     "Contract specifications and option terminology/underlying.md",
-    "Contract specifications and option terminology/put option.md",
+    "Contract specifications and option terminology/futures contract.md",
     "Contract specifications and option terminology/call option.md"
   ]
 }

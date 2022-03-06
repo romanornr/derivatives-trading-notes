@@ -39,4 +39,11 @@ If the buyer of an option decides to make or accept delivery
 <br>
 [[strike price]]: The price at which the holder of the [[options]] can buy the [[underlying]] or sell the option.
 <br>
-[[exercise and assignment]]: 
+[[exercise price]]: 
+<br>
+[[exercise and assignment]]:  The exercise price of [[options]] is the price at which the option may be exercised. The buyers exercise and the sellers are assigned. 
+<br>
+[[settlement into the physical underlying]]: 
+
+
+[[settlement into the futures position]]: 

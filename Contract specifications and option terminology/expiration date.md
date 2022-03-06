@@ -23,9 +23,9 @@ Many derivative strategies include holding an offsetting stock position until ex
 			-> they are confronted by massive orders to buy and sell shares.
 			-> These large orders often have the effect of disrupting trading or distorting prices at expiration.
 <br>
-To solve these large order imbalances 
+<p>To solve these large order imbalances</p>
 -> Certain derivatives exchanges collaborate with the stock exchanges that trade the [[underlying]] stocks to determine the expiry value of a derivatives contract based on the [[underlying]] stock's starting price rather than the closing price on the previous trading day.
-
+<br>
 -> This way, there were fewer large order imbalances at the end of the contract.
 -> Many stock index contracts have an expiration time of around 11:45 a.m
 -> If an option is for a single stock, it still has the traditional “PM” expiration date

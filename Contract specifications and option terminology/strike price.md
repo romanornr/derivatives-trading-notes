@@ -25,7 +25,7 @@ If the [[underlying]] price rises to 70
 The buyer of a crude oil October 90 [[call option]]
 -> has the right to take a long position in one October crude oil [[futures contract]] for 1000 barrels of crude oil at $90 per barrel on or before the October [[expiration date]].
 
-This is an example of an exchange-traded option (the expiration date)
+This is an example of an exchange-traded option (the [[expiration date]])
 -> The person who buys a General Electric March 30 put
 -> has the right to sell 100 shares of General Electric stock at $30 per share on or before March (the [[expiration date]]).  
 
