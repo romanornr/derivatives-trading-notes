@@ -1,25 +1,31 @@
 
 ### exercise and assignment 
 <br>
-The [[exercise price]] of [[options]] is the price at which the option may be exercised
+The [[exercise price]] of [[options]] is the price at which the option may be exercised<br>
 -> while the [[strike price]] is the price at which the [[underlying]] contract is purchased or sold.  
 <br>
 A [[call option]] is a contract that gives the buyer the right to acquire a stock at a specific price within a specified period, known as the [[expiration date]]
 <br>
 A [[put option]] is a contract that offers the buyer the right to sell an asset at a predetermined price within a certain time frame, known as the [[expiration date]] 
 <br>
+<ul>
 An option may have a fixed or variable [[strike price]]
--> A [[call option]] with a set strike price usually is less expensive than a call option with a floating strike price
-->while a [[put option]] with a fixed strike price expires sooner than a put option with a floating strike price.
+<li>-> A call option with a set strike price usually is less expensive than a call option with a floating strike price</li>
+<li>->while a put option with a fixed strike price expires sooner than a put option with a floating strike price.</li>
+</ul>
 <br>
-If the [[strike price]] is fixed
--> a call option is less expensive than a [[put option]]
--> If the strike price is fixed, a put option is less expensive than a call option
--> but a call option with a floating strike price expires sooner than a put option with a set strike price. 
+<ul>
+If the strike price is fixed
+<li>-> a call option is less expensive than a [[put option]]</li>
+<li>-> If the strike price is fixed, a put option is less expensive than a call option</li>
+<li>-> but a call option with a floating strike price expires sooner than a put option with a set strike price.</li>
+</ul>
 <br>
+<ul>
 When an option is exercised
--> the seller of the option is assigned.
--> Depending on the option type, the seller will be forced to take a long or short position in the [[underlying]] contract at the option’s exercise price.
+<li>-> the seller of the option is assigned.</li>
+<li>-> Depending on the option type, the seller will be forced to take a long or short position in the underlying contract at the option’s exercise price.</li>
+</ul>
 
 
 <p>When a contract is transacted on an exchange, the relationship between buyer and seller is broken, and the exchange becomes the counter party to all trades.</p>
@@ -46,11 +52,12 @@ A trader who has chosen to short sell 100 shares of GE stock at $30 a share.
 
 Just like if the option had been allowed to run out of time.
 
+<ul>
 A trader who wants to exercise an option
--> must send a notice of exercise to either the person who sold the option or the exchange where the option was bought.
--> When a valid exercise notice is sent, the option seller has been given the option.
--> People who sell options have to take a long or short position in the contract at the option's "exercise price," depending on what type of option it is.
-<br>
+<li>-> must send a notice of exercise to either the person who sold the option or the exchange</li>
+<li>-> When a valid exercise notice is sent, the option seller has been given the option.</li>
+<li>-> People who sell options have to take a long or short position in the contract at the option's "exercise price," depending on what type of option it is.</li>
+</ul><br>
 When a trader exercises an option
 -> the exchange has to pick someone to buy or sell the [[underlying]] contract at its exercise price.
 
@@ -58,7 +65,7 @@ When a trader exercises an option
 
 -> Further, the exchange's decision on who will be assigned is almost entirely based on chance, with no trader having a better or worse chance of being assigned than another.
 <br>
-<p>There are a lot of new traders who get mixed up about whether the exercise and assignment leads to a long or short position (selling the [[[[underlying]]]] contract).</p>
+<p>There are a lot of new traders who get mixed up about whether the exercise and assignment leads to a long or short position (selling the underlying contract).</p>
 
 Depending on the [[[underlying]] contract, when an exchange-traded option
 is exercised, it can settle into: 
@@ -66,3 +73,5 @@ is exercised, it can settle into:
 1. The physical underlying
 2. A [[futures contract]] position
 3. Cash
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sAhrFGKXmnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

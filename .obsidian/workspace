@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contract specifications and option terminology/settlement into the physical underlying.md",
+            "file": "4. expiration profit and loss/1. Intro.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257
+    "width": 407
   },
   "right": {
     "id": "f72445356e3d06cb",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contract specifications and option terminology/settlement into the physical underlying.md",
+                "file": "4. expiration profit and loss/1. Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 182
+    "width": 100
   },
   "active": "184c8d82b353d3ff",
   "lastOpenFiles": [
-    "Contract specifications and option terminology/settlement into the physical underlying.md",
-    "Contract specifications and option terminology/exercise price.md",
-    "Contract specifications and option terminology/options.md",
-    "Contract specifications and option terminology/exercise and assignment.md",
-    "Contract specifications and option terminology/expiration date.md",
-    "Contract specifications and option terminology/strike price.md",
-    "Contract specifications and option terminology/settlement into the futures position.md",
-    "Contract specifications and option terminology/underlying.md",
-    "Contract specifications and option terminology/futures contract.md",
-    "Contract specifications and option terminology/call option.md"
+    "4. expiration profit and loss/1. Intro.md",
+    "3. Contract specifications and option terminology/automatic exercise.md",
+    "3. Contract specifications and option terminology/option margining.md",
+    "3. Contract specifications and option terminology/options.md",
+    "3. Contract specifications and option terminology/exercise and assignment.md",
+    "[underlying.md",
+    "3. Contract specifications and option terminology/in the money, at the money, and out of the money.md",
+    "3. Contract specifications and option terminology/option price components.md",
+    "3. Contract specifications and option terminology/settlement into the futures position.md",
+    "3. Contract specifications and option terminology/expiration date.md"
   ]
 }
