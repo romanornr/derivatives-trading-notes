@@ -7,8 +7,12 @@
         "id": "73b776c062050c34",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Financial Contracts/futures-type settlement.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Financial Contracts/futures-type settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "73b776c062050c34",
   "lastOpenFiles": [
+    "1. Financial Contracts/futures-type settlement.md",
+    "RNR_0_puzzle_lain.jpg",
+    "Index.md",
     "1. Financial Contracts/maturity.md",
+    "4. expiration profit and loss/expiration profit and loss.md",
+    "3. Contract specifications and option terminology/options.md",
     "1. Financial Contracts/physical settlement.md",
     "1. Financial Contracts/variation payment.md",
     "1. Financial Contracts/settlement procedure.md",
-    "1. Financial Contracts/futures-type settlement.md",
-    "1. Financial Contracts/daily variation credit or debit.md",
-    "1. Financial Contracts/cash transaction.md",
-    "1. Financial Contracts/stock-type settlement.md",
-    "1. Financial Contracts/margin and variation settlement.md",
-    "1. Financial Contracts/margin deposit.md"
+    "1. Financial Contracts/daily variation credit or debit.md"
   ]
 }
