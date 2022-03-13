@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. expiration profit and loss/1. Intro.md",
+            "file": "1. Financial Contracts/futures-type settlement.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. expiration profit and loss/1. Intro.md",
+                "file": "1. Financial Contracts/futures-type settlement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "73b776c062050c34",
   "lastOpenFiles": [
+    "1. Financial Contracts/futures-type settlement.md",
+    "1. Financial Contracts/settlement procedure.md",
+    "1. Financial Contracts/stock-type settlement.md",
+    "1. Financial Contracts/cash transaction.md",
+    "3. Contract specifications and option terminology/exercise style.md",
+    "3. Contract specifications and option terminology/call option.md",
+    "3. Contract specifications and option terminology/automatic exercise.md",
+    "slope.md",
     "4. expiration profit and loss/1. Intro.md",
-    "4. expiration profit and loss/parity graphs.md",
-    "4. expiration profit and loss/short-put.png",
-    "4. expiration profit and loss/long-put.png",
-    "4. expiration profit and loss/short-call.png",
-    "3. Contract specifications and option terminology/strike price.md",
-    "4. expiration profit and loss/long-call.png",
-    "4. expiration profit and loss/figure 4–3.png",
-    "igure 4–4.png.md",
-    "igure 4–4.png"
+    "4. expiration profit and loss/parity graphs.md"
   ]
 }
