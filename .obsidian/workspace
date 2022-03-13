@@ -7,12 +7,8 @@
         "id": "73b776c062050c34",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Financial Contracts/maturity.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Financial Contracts/maturity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
