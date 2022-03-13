@@ -1,6 +1,5 @@
 ### futures-type settlement
 <br>
-
 <p><b>futures type settlement</b></p>
 When you trade a [[futures contract]], you must make a margin deposit.<br>
 <li>This money is held by the exchange</li>
