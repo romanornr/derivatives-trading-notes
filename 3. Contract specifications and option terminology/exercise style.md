@@ -1,6 +1,6 @@
 ### exercise style
 
-An option is a contract that gives the holder the right, but not the obligation, to purchase or sell an underlying asset at a certain price on or before a specified date
+An option is a contract that gives the holder the right, but not the [[obligation]], to purchase or sell an underlying asset at a certain price on or before a specified date
 
 The option’s “[[exercise price]]” is when the [[underlying]] asset may be bought or sold.
 

@@ -5,13 +5,14 @@
 
 <p>The intrinsic value of an option is its greatest potential result. The extrinsic value of an option is its worst-case scenario. </p>
 <p>When you plot the value of an option position at expiry, you are plotting its intrinsic value.</p><p>Option buyers have a low risk and unlimited profit potential, while option sellers have a low profit potential and unlimited risk.</p><br>
-<ul>  
-intrinsic value represents a credit or positive value for someone who has bought an option
-<li>The buyer of the option will buy low and sell high.</li></ul><br>
-<ul>intrinsic value represents a debit or negative value for someone who has sold an option.
-<li>The option seller will be forced to buy high and sell low.</li>
-</ul><br>
 
+intrinsic value represents a [[credit]] or positive value for someone who has bought an option
+The buyer of the option will buy low and sell high.  
+
+<br>
+intrinsic value represents a debit or negative value for someone who has sold an option.
+* -> The option seller will be forced to buy high and sell low.  
+<br>
 This graph of the value of a long [[call option]], position at [[expiration date]] as a function of the price of the [[underlying]] contract.<br>
 
 Below the [[exercise price]], the option has no value.<br>
