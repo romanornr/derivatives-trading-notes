@@ -1,7 +1,6 @@
 ### Settlement procedure
 <br>
-<p>What actually happens when a contract is traded on an exchange?</p>
-
+What actually happens when a contract is traded on an exchange?
 <p>The settlement procedure</p>
 *-> <b>Facilitates</b> the <b>transfer of the money and ownership of a contract.</b>
 * -> This is <b>determined</b> by the <b>regulations</b> of the exchange and the <b>type of contracts</b> traded.
@@ -13,4 +12,4 @@
 * -> and <b>transfers</b> these <b>to the buyers.</b>
 <br>
 
-This is basically a [[cash transaction]] with the <b>exchange making both delivery and payment</b>
+This is basically a [[cash transaction]] with the <b>exchange making both delivery and payment</b>.

@@ -7,12 +7,8 @@
         "id": "73b776c062050c34",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "1. Financial Contracts/variation payment.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,8 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Financial Contracts/variation payment.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -88,15 +83,15 @@
   },
   "active": "73b776c062050c34",
   "lastOpenFiles": [
-    "1. Financial Contracts/variation payment.md",
-    "1. Financial Contracts/cash transaction.md",
-    "1. Financial Contracts/stock-type settlement.md",
-    "Dividends/settlement date.md",
-    "Dividends/payable date.md",
-    "Dividends/dividend.md",
-    "Dividends/declared date.md",
+    "[underlying.md",
+    "3. Contract specifications and option terminology/exercise and assignment.md",
+    "3. Contract specifications and option terminology/expiration date.md",
     "1. Financial Contracts/maturity.md",
-    "3. Contract specifications and option terminology/underlying.md",
-    "1. Financial Contracts/Untitled.md"
+    "1. Financial Contracts/daily variation credit or debit.md",
+    "1. Financial Contracts/margin deposit.md",
+    "1. Financial Contracts/stock-type settlement.md",
+    "1. Financial Contracts/settlement procedure.md",
+    "1. Financial Contracts/physical settlement.md",
+    "3. Contract specifications and option terminology/exercise style.md"
   ]
 }
