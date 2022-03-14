@@ -7,4 +7,4 @@ The option’s “[[exercise price]]” is when the [[underlying]] asset may be 
 <p>There are two choices: European and American.</p>
 European options may only be exercised on [[expiration date]]
 
-but American options can be exercised on any business day before the expiration date.
+but American options can be exercised on any business day before the [[expiration date]].

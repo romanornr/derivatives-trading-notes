@@ -1,18 +1,15 @@
 ### option price components 
 
 An option's premium is always composed of
-<ul>
-<li>-> intrinsic value</li>
-<li>-> time values</li>
-</ul>
+* *-> intrinsic value
+* -> time values<br>
+
 The intrinsic value will be the difference between
-<ul>
-<li>-> the buying price and the selling price of the [[options]] if it exercises immediately</li>
-</ul>
+* -> the buying price and the selling price of the [[options]] if it exercises immediately
 Reference: [[exercise and assignment]]
 <br>
 <p>Time value</p>
-<li>-> is the amount of premium beyond the intrinsic value that traders are willing to pay for an option.</li>
+* -> is the amount of premium beyond the intrinsic value that traders are willing to pay for an option.<br>
 <p>An option's price in the marketplace will be greater than its intrinsic value.</p>
 
 <p>As in any competitive market, an option's price, or premium, is set by how many people are willing to buy and sell it.</p>
@@ -31,7 +28,7 @@ If the [[exercise price]] of a call is less than the current market price of the
 </ul>
 <p>An intrinsic value is a difference between the amount of money you pay for a call and how much money you get for a put.</p>
 
-No option can have an intrinsic value that is less than 0
+No option can have an intrinsic value that is less than 0.
 
 ```S = spot price of the underlying contract```
 ```X = exercise price```
@@ -42,20 +39,20 @@ Put intrinsic value = maximum of either 0 or X – S.
 ```
 <br>
 It is important to note that the intrinsic value is not affected by when the money is due to run out.
--> With [[underlying]] contract at $83
--> a March 70 call and a September 70 [[call option]] both have an intrinsic value of $13.
--> A June 90 put and December 90 put both have an intrinsic value of $7
+* *-> With [[underlying]] contract at $83
+* *-> a March 70 call and a September 70 [[call option]] both have an intrinsic value of $13.
+* *-> A June 90 put and December 90 put both have an intrinsic value of $7
 <br>
-<p>Most of the time
--> an option's price in the market will be higher than its intrinsic value</p>
+<p>Most of the time.</p>
+* -> an option's price in the market will be higher than its intrinsic value
 
-<p>Options have a "time value"
--> Can also be called their "time premium" or "extrinsic value."</p>
+Options have a "time value".
+* -> Can also be called their "time premium" or "extrinsic value."
 
-<p>It is the extra money that traders will pay for them over and above the option's intrinsic value.</p>
+It is the extra money that traders will pay for them over and above the option's intrinsic value.
 
-<p>People are willing to pay this extra money
--> because an option gives them more protection than an outright long or short position in the underlying contract.</p>
+People are willing to pay this extra money.
+* -> Because an option gives them more protection than an outright long or short position in the underlying contract.</p>
 
 
 Examples of intrinsic value and time value 
@@ -80,17 +77,17 @@ Examples of intrinsic value and time value
 ![[Intrinsic value and time value.png]]
 
 <p>So option premiums always include both intrinsic value and time value</p>
-<li>-> but one or both of these can be zero at the same time.</li>
+* -> but one or both of these can be zero at the same time.
 
-<p>If the option does not have any intrinsic value</p>
-<li>-> its price in the market will only be based on how long it will be before it expires.</li>
+If the option does not have any intrinsic value.
+* its price in the market will only be based on how long it will be before it expires
 
-If the option has no time value
--> its price will only be based on its intrinsic value. 
+If the option has no time value.
+* -> its price will only be based on its intrinsic value. 
 
-<p>In this case, traders say that the option is trading at the same price as the stock.</p>
+In this case, traders say that the option is trading at the same price as the stock.
 
-The intrinsic value of an option can never be less than zero
--> but it is possible for a European option ([[exercise style]]) to have a time value that is less than zero
+The intrinsic value of an option can never be less than zero.
+* -> but it is possible for a European option ([[exercise style]]) to have a time value that is less than zero.
 
 <p>During this time, the option can trade at a lower price than its par value. Most of the time, however, an option's price will reflect some non-negative amount of time value.</p>

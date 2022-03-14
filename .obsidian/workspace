@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Financial Contracts/futures-type settlement.md",
-            "mode": "preview",
+            "file": "3. Contract specifications and option terminology/exercise style.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -69,14 +69,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Financial Contracts/futures-type settlement.md",
+                "file": "3. Contract specifications and option terminology/exercise style.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -84,19 +84,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 464
   },
   "active": "73b776c062050c34",
   "lastOpenFiles": [
-    "1. Financial Contracts/futures-type settlement.md",
-    "RNR_0_puzzle_lain.jpg",
-    "Index.md",
+    "3. Contract specifications and option terminology/exercise style.md",
+    "3. Contract specifications and option terminology/expiration date.md",
+    "3. Contract specifications and option terminology/option price components.md",
+    "3. Contract specifications and option terminology/exercise and assignment.md",
     "1. Financial Contracts/maturity.md",
-    "4. expiration profit and loss/expiration profit and loss.md",
+    "3. Contract specifications and option terminology/strike price.md",
     "3. Contract specifications and option terminology/options.md",
-    "1. Financial Contracts/physical settlement.md",
-    "1. Financial Contracts/variation payment.md",
-    "1. Financial Contracts/settlement procedure.md",
-    "1. Financial Contracts/daily variation credit or debit.md"
+    "3. Contract specifications and option terminology/exercise price.md",
+    "3. Contract specifications and option terminology/call option.md",
+    "1. Financial Contracts/stock-type settlement.md"
   ]
 }
