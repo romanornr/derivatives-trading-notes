@@ -1,7 +1,7 @@
 ### Underlying 
 
 When you buy or sell an option
-* -> you will buy or sell a certain type of stock or commodity.
+* -> you will buy or sell a certain type of stock or [[commodity]].
 
 This is called the “underlying asset.”
 <br>

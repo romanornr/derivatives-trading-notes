@@ -1,13 +1,17 @@
 ### futures-type settlement
-<br>
-<p><b>futures type settlement</b></p>
-When you trade a [[futures contract]], you must make a [[margin deposit]].  
-<br>
+
+
+When you trade a [[futures contract]], you must make a [[margin deposit]].   
+
+
 * This money is held by the exchange.  
 
-* to ensure that you do not default on your contract.
+* to ensure that you do not default on your contract.  
+
+
 <br>
-<p>If the commodity's price rises, the buyer profits</p>
+
+If the [[commodity]]'s price rises, the buyer profits
 
 * The exchange transfer funds from the seller's account to the buyer's account.
 

@@ -31,7 +31,7 @@ To solve these large order imbalances.
 * *-> If an option is for a single stock, it still has the traditional “PM” expiration date
 	* *-> which means how much that stock goes up or down determines how much that option is worth when it expires.<br>
 
-While stock options have a predetermined [[expiration date]], futures options may have a different expiration date depending on the commodity or financial instrument to which they are connected.
+While stock options have a predetermined [[expiration date]], futures options may have a different expiration date depending on the [[commodity]] or financial instrument to which they are connected.
 
 * -> Delivery at [[maturity]] for futures on physical items, such as agricultural or energy products, may take a few days which is why they are named futures.
 * -> [[options]] on futures for physical commodities will often expire several days or even weeks before the maturity of the [[futures contract]]

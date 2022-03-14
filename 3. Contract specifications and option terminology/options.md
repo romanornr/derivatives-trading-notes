@@ -33,7 +33,7 @@ If the buyer of an option decides to make or accept delivery
 * -> the seller must take the opposite side.
 * -> All rights and duties in option trading are with the buyer.<br>
 <br>
-[[underlying]]: When you buy or sell an option, you will buy or sell a certain type of stock or commodity. This is the [[underlying]]
+[[underlying]]: When you buy or sell an option, you will buy or sell a certain type of stock or [[commodity]]. This is the [[underlying]]
 <br>
 [[expiration date]]: You have until the expiry date whether buy or sell a [[call option]] or [[put option]]. This is the [[expiration date]]
 <br>

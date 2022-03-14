@@ -1,23 +1,28 @@
 
 ### exercise and assignment 
 <br>
+
 The [[exercise price]] of [[options]] is the price at which the option may be exercised.  
 
-<br>
 * -> While the [[strike price]] is the price at which the [[underlying]] contract is purchased or sold.  
 
-<br>
-A [[call option]] is a contract that gives the buyer the right to acquire a stock at a specific price within a specified period, known as the [[expiration date]].  <br>
 
-<br>
+
+A [[call option]] is a contract that gives the buyer the right to acquire a stock at a specific price within a specified period, known as the [[expiration date]].  
+
+
+
 A [[put option]] is a contract that offers the buyer the right to sell an asset at a predetermined price within a certain time frame, known as the [[expiration date]].   
 
-<br>
-An option may have a fixed or variable [[strike price]]  
-* A [[call option]] with a set [[strike price]] usually is less expensive than a call option with a floating strike price.  <br>
-* While a put option with a fixed strike price expires sooner than a put option with a floating strike price.  
 
-<br>
+
+An option may have a fixed or variable [[strike price]].  
+
+* A [[call option]] with a set [[strike price]] usually is less expensive than a call option with a floating strike price.  
+
+* While a [[put option]] with a fixed strike price expires sooner than a put option with a floating strike price.  
+
+
 
 If the strike price is fixed.  
 * -> a call option is less expensive than a [[put option]].
