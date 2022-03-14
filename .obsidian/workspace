@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Financial Contracts/futures-type settlement.md",
+            "file": "1. Financial Contracts/cash flow.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Financial Contracts/futures-type settlement.md",
+                "file": "1. Financial Contracts/cash flow.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "73b776c062050c34",
   "lastOpenFiles": [
-    "1. Financial Contracts/futures-type settlement.md",
     "1. Financial Contracts/cash flow.md",
     "1. Financial Contracts/credit.md",
+    "1. Financial Contracts/maturity.md",
+    "1. Financial Contracts/settlement procedure.md",
+    "1. Financial Contracts/cash transaction.md",
+    "1. Financial Contracts/futures-type settlement.md",
     "1. Financial Contracts/variation payment.md",
     "1. Financial Contracts/physical settlement.md",
     "1. Financial Contracts/margin deposit.md",
-    "1. Financial Contracts/margin and variation settlement.md",
-    "1. Financial Contracts/cash transaction.md",
-    "3. Contract specifications and option terminology/options.md",
-    "3. Contract specifications and option terminology/settlement into the futures position.md"
+    "1. Financial Contracts/margin and variation settlement.md"
   ]
 }

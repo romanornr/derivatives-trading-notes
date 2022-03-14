@@ -14,6 +14,9 @@ When you trade a [[futures contract]], you must make a [[margin deposit]].
 * If the price falls, the seller profits and the exchange transferred funds from the buyer's account to the seller's account. 
 
 <br>
-A [[futures-type settlement]] is different compared to a [[stock-type settlement]]
+
+A [[futures-type settlement]] is different compared to a [[stock-type settlement]].
+
+<br>
 
 reference: [[settlement procedure]]

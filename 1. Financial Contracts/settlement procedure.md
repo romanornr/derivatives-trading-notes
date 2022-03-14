@@ -1,11 +1,19 @@
 ### Settlement procedure
 <br>
-What actually happens when a contract is traded on an exchange?
-<p>The settlement procedure</p>
-*-> <b>Facilitates</b> the <b>transfer of the money and ownership of a contract.</b>
+What actually happens when a contract is traded on an exchange?  
+
+
+The settlement procedure
+* -> **Facilitates** the **transfer of the money and ownership of a contract**.  
+
 * -> This is **determined**  by the **regulations** of the exchange and the <b>type of contracts</b> traded.
-<p>Consider a trader buying 100 shares of a $50 stock</p>
-<p>Total value of the stock: 100 x $50 = $5000</p>
+
+Consider a trader buying 100 shares of a $50 stock.  
+
+
+Total value of the stock: 100 x $50 = $5000.  
+
+
 * -> The buyer must pay this amount to the seller.  
 
 * -> The exchange acts as an intermediary and transfers it to the seller.  
