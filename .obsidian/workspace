@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3. Contract specifications and option terminology/exercise style.md",
+            "file": "1. Financial Contracts/variation payment.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Contract specifications and option terminology/exercise style.md",
+                "file": "1. Financial Contracts/variation payment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "73b776c062050c34",
   "lastOpenFiles": [
-    "3. Contract specifications and option terminology/exercise style.md",
-    "3. Contract specifications and option terminology/expiration date.md",
-    "3. Contract specifications and option terminology/option price components.md",
-    "3. Contract specifications and option terminology/exercise and assignment.md",
+    "1. Financial Contracts/variation payment.md",
+    "1. Financial Contracts/cash transaction.md",
+    "1. Financial Contracts/stock-type settlement.md",
+    "Dividends/settlement date.md",
+    "Dividends/payable date.md",
+    "Dividends/dividend.md",
+    "Dividends/declared date.md",
     "1. Financial Contracts/maturity.md",
-    "3. Contract specifications and option terminology/strike price.md",
-    "3. Contract specifications and option terminology/options.md",
-    "3. Contract specifications and option terminology/exercise price.md",
-    "3. Contract specifications and option terminology/call option.md",
-    "1. Financial Contracts/stock-type settlement.md"
+    "3. Contract specifications and option terminology/underlying.md",
+    "1. Financial Contracts/Untitled.md"
   ]
 }
