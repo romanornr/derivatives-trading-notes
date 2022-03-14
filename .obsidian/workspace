@@ -7,8 +7,12 @@
         "id": "73b776c062050c34",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "1. Financial Contracts/daily variation credit or debit.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1. Financial Contracts/daily variation credit or debit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,15 +88,15 @@
   },
   "active": "73b776c062050c34",
   "lastOpenFiles": [
+    "1. Financial Contracts/daily variation credit or debit.md",
+    "1. Financial Contracts/cash transaction.md",
+    "1. Financial Contracts/margin deposit.md",
+    "1. Financial Contracts/maturity.md",
+    "1. Financial Contracts/variation payment.md",
+    "1. Financial Contracts/stock-type settlement.md",
     "[underlying.md",
     "3. Contract specifications and option terminology/exercise and assignment.md",
     "3. Contract specifications and option terminology/expiration date.md",
-    "1. Financial Contracts/maturity.md",
-    "1. Financial Contracts/daily variation credit or debit.md",
-    "1. Financial Contracts/margin deposit.md",
-    "1. Financial Contracts/stock-type settlement.md",
-    "1. Financial Contracts/settlement procedure.md",
-    "1. Financial Contracts/physical settlement.md",
-    "3. Contract specifications and option terminology/exercise style.md"
+    "1. Financial Contracts/settlement procedure.md"
   ]
 }
