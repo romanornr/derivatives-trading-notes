@@ -4,7 +4,7 @@ is an amount of money that is paid to an exchange
 to ensure that the buyer and seller of a [[futures contract]] will live up to their [[obligation]].
 
 <br>
-The exchange collects a margin deposit.  
+The exchange collects a [[margin]] deposit.  
 
 * -> From each party that it holds as security against possible default by the buyer or seller.  
 

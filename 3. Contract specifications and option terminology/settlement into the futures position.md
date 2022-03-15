@@ -9,19 +9,21 @@ When you exercise a [[call option]]
 When you exercise a [[put option]]
 -> you acquire a short position in the underlying futures contract.<br>
 When you exercise a call
--> the option "settles" into a futures position, and you must deposit the required margin.
+-> the option "settles" into a futures position, and you must deposit the required margin. ([[margin deposit]])
 <br>
 You will also receive a [[variation credit]] (see [[variation credit or debit]])
 * -> which is the difference between the current price of the [[underlying]] [[futures contract]] and the exercise price of the call.
 <br>
 When you exercise a put
--> the option settles into a futures position, and you must deposit the required margin. 
+-> the option settles into a futures position, and you must deposit the required [[margin]]. 
 <br>
-You will also have a [[variation debit]], which is the difference between the current price of the underlying futures contract and the exercise price of the put.
+You will also have a [[variation debit]], which is the difference between the current price of the [[underlying]] [[futures contract]] and the [[exercise]] price of the [[put option]]
 
+<br>
 
-<p>An underlying futures contract is currently trading at 85.00 with a point
-value of $1,000. Margin requirements are $3,000 per contract.</p>
+An [[underlying]] [[futures contract]] is currently trading at 85.00 with a point
+value of $1,000. [[margin]] requirements are $3,000 per contract.
+
 
 ```
 You exercise one February 80 call.

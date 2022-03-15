@@ -8,11 +8,12 @@ The exchange wants to be sure that both parties to the contract will be able to 
 
 <br>
 
-The exchange also requires a daily [[variation payment]] from each party. This payment results from fluctuations in the price of the contract and is made as long as the position remains open.
+The exchange also requires a daily [[variation payment]] from each party.
+* -> This payment results from fluctuations in the price of the contract and is made as long as the position remains open.
 
-If you trade futures, you must have the cash to cover the margin requirements for the trade.
+If you trade futures, you must have the cash to cover the [[margin]] requirements for the trade.
 
-But you also need to have the cash to cover any [[variation payments]] that may be required. If you don't have the cash to cover the variation, you may be forced to close the position earlier than you intended.
+But you also need to have the cash to cover any [[variation payment]] that may be required. If you don't have the cash to cover the variation, you may be forced to close the position earlier than you intended.
 
 <br>
 

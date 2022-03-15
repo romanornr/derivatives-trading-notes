@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Financial Contracts/cash flow.md",
+            "file": "forward contract.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Financial Contracts/cash flow.md",
+                "file": "forward contract.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b06303ad13684a39",
   "lastOpenFiles": [
-    "1. Financial Contracts/cash flow.md",
+    "forward contract.md",
     "1. Financial Contracts/settlement procedure.md",
-    "3. Contract specifications and option terminology/futures contract.md",
-    "3. Contract specifications and option terminology/expiration date.md",
-    "1. Financial Contracts/futures transactions.md",
-    "1. Financial Contracts/commodity.md",
-    "1. Financial Contracts/variation debit.md",
+    "1. Financial Contracts/delivery.md",
     "1. Financial Contracts/variation credit or debit.md",
-    "1. Financial Contracts/variation credit.md",
-    "3. Contract specifications and option terminology/underlying.md"
+    "1. Financial Contracts/cash flow.md",
+    "1. Financial Contracts/debit.md",
+    "1. Financial Contracts/futures-type settlement.md",
+    "1. Financial Contracts/obligation.md",
+    "1. Financial Contracts/variation debit.md",
+    "1. Financial Contracts/futures transactions.md"
   ]
 }

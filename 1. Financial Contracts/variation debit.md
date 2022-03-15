@@ -1,11 +1,9 @@
 #### variation [[debit]]
 <br>
 
-When the price of the [[commodity]] goes up.  
+When the price of the [[commodity]] goes down
 
 <br>
-
-* -> The buyer gets more money and the seller gets less.  
 
 * -> When price of the [[commodity]] goes down, the buyer gets less money & the seller gets more. 
 
