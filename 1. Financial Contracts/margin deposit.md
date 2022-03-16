@@ -10,7 +10,7 @@ The exchange collects a [[margin]] deposit.
 
 * -> The amount of margin is commensurate with the risk to the exchange  
 
-* -> also depends on the notional value of the contract  
+* -> also depends on the [[notional value]] of the contract  
 
 * -> as well as the possibility of price fluctuations over the life of the [[futures contract]].  
 

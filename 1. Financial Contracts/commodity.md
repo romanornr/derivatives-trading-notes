@@ -4,23 +4,23 @@ A commodity is a **physical asset** that can be bought and sold.
 
 <br>
 
-Commodities are the [[underlying]] assets for futures contracts and [[options]] contracts.  
+Commodities are the [[underlying]] assets for [[futures contract]] and [[options]] contracts.  
 
 <br>
 
 When someone trades a [[futures contract]].  
 * -> they are agreeing to buy or sell a commodity at a set price at some point in the future.  
 
-<br>
-
 When someone trades an options contract
 * they are agreeing to buy or sell a commodity at a set price at some point in the future.  
 
 
-* This is why commodities are so closely linked to futures and options trading
+* This is why commodities are so closely linked to futures and [[options]] trading
 * because the contracts are based on the prices of these [[underlying]] assets.  
 
 <br>
+
+#### [[maturity]]
 
 During [[maturity]] of the commodity.  
 
@@ -29,7 +29,7 @@ During [[maturity]] of the commodity.
 
 * The buyer must pay an amount equal to the current value of the commodity.  
 
-* After delivery and payment have been made, the [[margin deposit]] will be returned to the respective parties
+* After [[delivery]] and payment have been made, the [[margin deposit]] will be returned to the respective parties
 
 <br>
 

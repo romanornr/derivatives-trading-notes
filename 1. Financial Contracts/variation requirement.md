@@ -1,4 +1,3 @@
-A variation requirement is a [[cash transaction]] that is made to or from an exchange to ensure that both parties to a [[futures transactions]] or [[options]] contract live up to their contractual [[obligations]].  
+A variation requirement is a **[[cash transaction]]** made to the exchange by a futures trader when the [[futures contract]] **price changes against** him. 
 
-
-* The payment is based on the daily fluctuations in the price of the contract.
+ [[margin deposit]] are used by the exchange to guarantee that the trader has the financial resources to meet any [[variation payment]].

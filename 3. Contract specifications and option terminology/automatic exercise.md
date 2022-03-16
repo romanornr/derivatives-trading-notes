@@ -1,4 +1,6 @@
-### automatic exercise 
+### automatic exercise
+
+Automatic exercise is a procedure whereby the [[options]] clearing corporation will [[exercise]] an option on behalf of the option holder if the option is [[in-the-money]] at [[expiration date]] and the holder has not instructed the clearing corporation not to exercise.
 
 <ul>
 <p>To prevent a scenario in which an in-the-money option expires unexercised</p>
@@ -7,13 +9,7 @@
 
 <li>Even if an exercise notification is not submitted</li>
 <li>the exchange will execute any “in-the-money” option on behalf of the option holder upon expiration.</li></ul><br>
-reference: [[in the money, at the money, and out of the money]]<br><br>
-
 <p>The criteria for automatic exercises may differ from one exchange to the next and depending on who owns the option.</p><br>
-  
-
-<p>For example. Due to transaction costs, it may be economically advantageous to execute a marginally profitable option.</p>
-
 <ul>
 <li>Exchanges may automatically execute those options “in-the-money” by a predefined amount</li>
 <li>If the automatic exercise threshold is 0.05</li>

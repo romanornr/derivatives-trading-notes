@@ -1,11 +1,14 @@
-### variation payment
+A **variation payment** is a **[[credit]] or [[debit]]** that **results** from **fluctuations** in the **price of a [[futures contract]]**.
 
-is a <b>payment</b> that happens <b>when </b>the <b>price</b> of a [[futures contract]] <b>changes</b>.
+
+#### [[credit]] or [[debit]]
+
+* => A variation payment can either earn interest, if the variation results in a [[credit]]
+* => or lose interest if the variation results in a [[debit]].
 
 <br>
 The [[margin deposit]] is held by the exchange to make sure that the parties can pay this variation payment.  
 
-<br>
 
 * -> A variation payment can earn interest if the variation results in a [[credit]].  
 

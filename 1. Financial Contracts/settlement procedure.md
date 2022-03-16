@@ -46,14 +46,17 @@ A **futures contract is a forward contract**
 
 <br>
 
+#### [[maturity]]
+
 At contract [[maturity]]
 * -> the seller is has the [[obligation]] to deliver ([[delivery]])
 
 * -> and the buyer has the [[obligation]] to pay.  
+  
  <br> <br>
+ ### [[margin]]
  
- 
- To do this, the exchange collects a [[margin deposit]] from each party that it holds as security against possible default by the buyer or seller.  
+ The exchange collects a [[margin deposit]] from each party that it holds as security against possible default by the buyer or seller.  
 
 * -> It depends on the [[notional value]] of the contract and the possibility of price fluctuations over the life of the [[futures contract]].  
 
@@ -75,8 +78,12 @@ If the position moves against the trader, he may be forced to close the position
 * -> Even though deposited with the exchange, margin deposits still belong to the trader and earn interest for the trader.
 
 <br>
+### [[variation credit]] / [[variation debit]] & [[variation payment]]
 
- [[variation credit or debit]] results from fluctuations in the price of a futures contract. A [[variation payment]] can either make interest if the variation results in a [[credit]]. If the result is in a [[debit]] it will lose interest.  
+ [[variation credit or debit]] results from fluctuations in the price of a futures contract.
+ 
+ * => A [[variation payment]] can either earn interest if the variation results in a [[credit]].
+ * => If the variation results is in a [[debit]] it will lose interest.  
 
 <br>
 
@@ -92,20 +99,58 @@ If the price of the futures contract rises
 
 <br>
 
-All exchange-traded options in North America, whether stock options, stock indexes, futures, or foreign currencies, are [[stock-type settlement]].  
+### North American options
+
+All exchange-traded options in North America, whether stock options, stock indexes, [[futures contract]], or foreign currencies, are [[stock-type settlement]].  
 
 
 * -> In stock option markets, this is both logical and consistent because both the underlying contract and options on that contract are settled using identical procedures.
 
 * -> However, on U.S. futures options markets, the [[underlying]] contract is settled one way ([[futures-type settlement]]), while the options are settled differently ([[stock-type settlement]]).
 
+
+
+In North America, the settlement of exchange-traded [[options]] provides an interesting scenario in terms of investor return.
+
+Due to the fact that all options are **settled** similarly to stocks ([[stock-type settlement]])
+* => there is no daily [[variation credit]] or [[variation debit]].
+* => However, no initial [[margin deposit]] is necessary. Thus, what is the actual return on an investor's option position?
+
 <br>
+
+we must take three factors into account: 
+* the price at which the option is purchased or sold.  
+* the passage of time.  
+* the price of the [[underlying]] contract upon option [[expiration date]].
+
+<br>
+
+ By taking these **three aspects** into account, we can build a broad framework for **assessing an option position** and **determining** how the **price of an option** is **connected** to changes in these three variables.
+
+The return on a trader's **option position** is calculated as the **difference between the price of the option** at the **time it is purchased** and the **price of the option at the time it is sold**. This is true for both purchased and sold options.
+
+* If trader purchases an option and then sells it at a higher price, the trader will profit
+* If the investor purchases an option and then sells it for a lower price, the trader will lose money. 
+ * Profit or loss will be determined by the difference between the buy and selling prices of the option, as well as the volume of options contracts exchanged.
+
+Additionally, the investor's return will be influenced by the time period between buy and sell, as well as by changes in the underlying contract's price during that time period.
+
+These three variables –
+* The option's purchase price
+* The elapsed time
+* Changes in the [[underlying]] contract's price – all affect the option's price and, subsequently, the option's return.
+
+<br>
+
+[[futures options]]
+
+### [[cash flow]] settlement 
 
 If a trader is unaware of the different settlement procedures.  
 
-* -> He can occasionally find himself with unexpected [[cash flow]] problems.
+* He can occasionally find himself with unexpected [[cash flow]] problems.
 
-* ->This can cause problems when a trader has bought/sold an option to hedge a futures position.  
+* =>This can cause problems when a trader has bought/sold [[options]] to hedge a futures position.  
 
 * Even if the profits from the option position exactly offset the losses from the futures position
 	* -->  the profits from the option position are unrealized because the options are settled like stock.
