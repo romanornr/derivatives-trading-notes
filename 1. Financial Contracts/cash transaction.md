@@ -11,6 +11,10 @@ An exchange is a marketplace where assets are bought and sold.
 
 <br>
 
+___
+
+<br>
+
 ### [[options]] & futures: cash settled ([[settlement procedure]])
 
 A [[futures contract]] is [[cash-settled]]

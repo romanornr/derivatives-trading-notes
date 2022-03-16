@@ -9,6 +9,9 @@ The settlement procedure
 * -> This is **determined**  by the **regulations** of the exchange and the <b>type of contracts</b> traded.
 
 <br>
+___
+
+<br>
 
 #### [[cash transaction  ]]
 
@@ -34,6 +37,8 @@ This is basically a [[cash transaction]] with the **exchange making both [[deliv
 An **exchange** is a marketplace where assets are bought and sold. **The transaction is considered a [[cash transaction]]** since the buyer and seller agree on the price.  
 
 <br>
+___
+<br>
 
 ### futures type settlement 
 
@@ -46,21 +51,30 @@ A **futures contract is a forward contract**
 
 <br>
 
+___
+<br>
+
 #### [[maturity]]
 
 At contract [[maturity]]
 * -> the seller is has the [[obligation]] to deliver ([[delivery]])
 
 * -> and the buyer has the [[obligation]] to pay.  
-  
- <br> <br>
- ### [[margin]]
+
+
+___
+<br>
+
+### [[margin]]
  
  The exchange collects a [[margin deposit]] from each party that it holds as security against possible default by the buyer or seller.  
 
 * -> It depends on the [[notional value]] of the contract and the possibility of price fluctuations over the life of the [[futures contract]].  
 
 * -> An exchange will try to set margin requirements high enough so that the exchange is reasonably protected against default but not so high that it inhibits trading.  
+
+<br>
+___
 
 <br>
 
@@ -78,6 +92,10 @@ If the position moves against the trader, he may be forced to close the position
 * -> Even though deposited with the exchange, margin deposits still belong to the trader and earn interest for the trader.
 
 <br>
+___
+
+<br>
+
 ### [[variation credit]] / [[variation debit]] & [[variation payment]]
 
  [[variation credit or debit]] results from fluctuations in the price of a futures contract.
@@ -96,6 +114,8 @@ If the price of the futures contract falls
 
 If the price of the futures contract rises
 * -> the long position makes money, and the short position loses money.
+
+___
 
 <br>
 
@@ -141,25 +161,20 @@ These three variables –
 * Changes in the [[underlying]] contract's price – all affect the option's price and, subsequently, the option's return.
 
 <br>
-
-[[futures options]]
-
-### [[cash flow]] settlement 
-
-If a trader is unaware of the different settlement procedures.  
-
-* He can occasionally find himself with unexpected [[cash flow]] problems.
-
-* =>This can cause problems when a trader has bought/sold [[options]] to hedge a futures position.  
-
-* Even if the profits from the option position exactly offset the losses from the futures position
-	* -->  the profits from the option position are unrealized because the options are settled like stock.
-
-	* -> But the losses from the futures position will require an immediate cash outlay to cover [[variation requirement]].
+___
 
 <br>
- 
--The settlement situation on most exchanges outside North America has been simplified by making option and underlying settlement procedures identical. 
--In this text, when presenting option examples, we will generally assume the settlement convention used in North America, where all options are subject to stock-type settlement. 
--If the underlying is subject to stock-type settlement, then the options on the underlying are subject to stock-type settlement. If the underlying is subject to futures-type settlement, the options are subject to futures-type settlement. 
--Under this method, a trader is unlikely to have a surprise variation requirement on a position that he thinks is well hedged.
+
+###  Different settlement  procedures cause [[cash flow]] problems
+
+<br>
+
+ On U.S. [[futures options]], the [[underlying]] contract is settled one way ([[futures-type settlement]]), while the options are settled in a different way ([[stock-type settlement]]).
+
+**Different settlement procedures** can cause **problems** when a trader has bought or sold an **option** to **hedge a futures position**.
+
+* => He can occasionally find himself with ***unexpected [[cash flow]] problems***.
+
+*  A trader might have a futures position that is subject to [[futures-type settlement]] settlement ([[margin]] and [[variation settlement]]) and an offsetting options position that is subject to stock-type settlement ([[cash-settled]].
+
+* => If the market moves against the trader and the trader does not have sufficient funds to cover the [[margin]] requirements, he may be forced to close the position earlier than intended.

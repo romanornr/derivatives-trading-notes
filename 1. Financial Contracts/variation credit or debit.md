@@ -5,6 +5,9 @@ Results from <b>fluctuations in the price</b> of the [[futures contract]] as lon
 
 <br>
 
+___
+
+
 When the price of the [[commodity]] goes up.  
 
 <br>

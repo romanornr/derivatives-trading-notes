@@ -7,10 +7,15 @@
 
 Obsidian is a powerful **knowledge base** on top of a **local folder** of plain text Markdown files.<br>
 <br>
-1. [[settlement procedure]]<br>
-2. in progress [[dividend]]<br>
-3. [[options]] terminology<br>
-4. [[expiration profit and loss]]<br>
+1. Financial Contracts
+* [[settlement procedure]]  
+* [[market Integrity]]
+
+<br>
+
+3. in progress [[dividend]]<br>
+4. [[options]] terminology<br>
+5. [[expiration profit and loss]]<br>
 
 #### Everything is connected<br>
 ![[RNR_0_puzzle_lain.jpg]]
