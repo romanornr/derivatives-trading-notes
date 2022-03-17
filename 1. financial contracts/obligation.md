@@ -13,6 +13,10 @@ For example, in a employment contract, the employer has an obligation to provide
 
 <br>
 
+___
+
+<br>
+
 ### [[options]]
 
 An obligation in the context of options trading is the requirement for the options contract holder to fulfill their end of the contract.  

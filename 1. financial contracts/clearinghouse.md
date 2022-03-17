@@ -9,7 +9,12 @@ If a trader defaults on their [[obligation]]
 
 The **clearinghouse** may **allow** a clearing **firm to aggregate the positions** of all the traders at the firm
 * which means that some traders will have long positions while other traders will have short positions in the same contract.
-* -> The clearinghouse **may** also **reduce the [[margin deposit]] required** from the clearing firm.
+* -> The clearinghouse **may** also **reduce the [[margin deposit]] required** from the clearing firm.  
+
+
+The clearing process
+
+![[the-clearing-process.png]]
 
 <br>
 
@@ -37,7 +42,6 @@ To do this, the clearinghouse will act as the buyer from each seller and the sel
 If the buyer defaults
 * -> the exchange will guarantee payment
 
-<br>
 
 If the seller defaults
 * -> the exchange will guarantee [[delivery]]

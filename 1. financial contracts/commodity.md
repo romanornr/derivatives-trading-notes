@@ -20,6 +20,11 @@ When someone trades an options contract
 
 <br>
 
+___
+
+<br>
+
+
 #### [[maturity]]
 
 During [[maturity]] of the commodity.  
@@ -33,7 +38,10 @@ During [[maturity]] of the commodity.
 
 <br>
 
-During [[expiration date]].  
+___
+
+
+### During [[expiration date]].  
 
 * The seller of the futures must [[delivery]] the [[underlying]] commodity to the buyer on the expiration date of the contract.
 

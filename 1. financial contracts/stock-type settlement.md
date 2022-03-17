@@ -10,6 +10,9 @@ This profit, however, is <b>unrealized</b>, and the buyer is <b>unable to spend 
 * He <b>must sell</b> his 100 shares to someone else at a price of $60 per share.
 
 <br>
+___
+
+<br>
 
 ### [[options]] [[settlement procedure]]
 

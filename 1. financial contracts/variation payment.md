@@ -1,5 +1,7 @@
 A **variation payment** is a **[[credit]] or [[debit]]** that **results** from **fluctuations** in the **price of a [[futures contract]]**.
 
+___
+<br>
 
 #### [[credit]] or [[debit]]
 
@@ -7,6 +9,7 @@ A **variation payment** is a **[[credit]] or [[debit]]** that **results** from *
 * => or lose interest if the variation results in a [[debit]].
 
 <br>
+
 The [[margin deposit]] is held by the exchange to make sure that the parties can pay this variation payment.  
 
 
