@@ -9,6 +9,7 @@ The settlement procedure
 * -> This is **determined**  by the **regulations** of the exchange and the <b>type of contracts</b> traded.
 
 <br>
+
 ___
 
 <br>

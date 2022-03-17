@@ -37,11 +37,11 @@ ___
 
 There are 4 main factors to consider when calculating the fair forward price of a contract:
 
-1. The interest rate: This is the cost of borrowing or lending money.
+1. The [[interest rate]]: This is the cost of borrowing or lending money.
 
-2. The storage costs: This is the cost of storing the underlying commodity.
+2. The [[storage cost]]: This is the cost of storing the underlying commodity.
 
-3. The convenience yield: This is the benefit of having the commodity now rather than later.
+3. The [[convenience yield]]: This is the benefit of having the commodity now rather than later.
 
 4. The dividend yield: This is the benefit of receiving dividends from the underlying asset.
 

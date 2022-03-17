@@ -9,6 +9,10 @@ In **[[options]]** a credit can occur when an trader has a net positive balance 
 
 <br>
 
+___
+
+<br>
+
 #### [[futures contract]]
 
 In **futures trading**, a credit can occur when an trader has a **net positive balance** in his account after **taking into account** the daily **[[variation payment]]** made on his behalf to or from the account.
