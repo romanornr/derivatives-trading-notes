@@ -42,3 +42,7 @@ There are several types of bonds, including:
 - [[corporate bonds]]: These are issued by businesses and are subject to credit risk, meaning that the issuer may not be able to make interest payments or repay the principal.
 
 - [[mortgage-backed securities]]: These are bonds that are backed by a pool of mortgages.
+
+
+<br>
+#bonds #bond

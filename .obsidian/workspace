@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 financial contracts/settlement procedure.md",
+            "file": "1 financial contracts/delivery.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 financial contracts/settlement procedure.md",
+                "file": "1 financial contracts/delivery.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "b06303ad13684a39",
   "lastOpenFiles": [
-    "1 financial contracts/settlement procedure.md",
-    "Index.md",
-    "2 forward pricing/backwardation.md",
-    "2 forward pricing/forward price.md",
-    "2 forward pricing/convenience yield.md",
+    "1 financial contracts/delivery.md",
+    "1 financial contracts/credit.md",
+    "1 financial contracts/futures transactions.md",
+    "1 financial contracts/futures options.md",
     "2 forward pricing/contango.md",
-    "2 forward pricing/storage cost.md",
-    "futures contract[.md",
+    "2 forward pricing/backwardation.md",
+    "2 forward pricing/bonds/treasury bond.md",
     "2 forward pricing/bonds/municipal bonds.md",
-    "2 forward pricing/dividends/dividend yield.md"
+    "2 forward pricing/bonds/mortgage-backed securities.md",
+    "2 forward pricing/bonds/corporate bonds.md"
   ]
 }

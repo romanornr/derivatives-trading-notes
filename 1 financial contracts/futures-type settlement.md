@@ -34,3 +34,5 @@ A [[futures-type settlement]] is different compared to a [[stock-type settlement
 <br>
 
 reference: [[settlement procedure]]
+
+#futures 

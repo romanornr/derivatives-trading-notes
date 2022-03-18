@@ -133,3 +133,6 @@ ___
 In general, higher interest rates are associated with higher future prices, and thus, a market in contango. This is because when interest rates are high, it costs more to carry a [[commodity]] forward into the future.
 
 The relationship between interest rates and contango is not always linear, however. There are other factors that can affect the price of a [[commodity]] in the future, such as demand and supply.
+
+
+#futures #options 

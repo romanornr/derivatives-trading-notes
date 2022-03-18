@@ -39,3 +39,6 @@ ___
 
 With [[options]] trading
 * => the notional value is the monetary value of the [[underlying]] security and is used to calculate the [[premium]] of the options contract.
+
+<br>
+#futures #options  #margin 

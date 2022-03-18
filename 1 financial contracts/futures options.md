@@ -18,3 +18,7 @@ When the contract is traded, both the buyer and the seller have taken on future 
 * -> The buyer is obligated to pay.  
 * -> The exchange wants to ensure that both parties live up to this [[obligation]].
 
+<br>
+
+#futures #options
+

@@ -53,3 +53,5 @@ Margin and variation settlement refers to [[futures-type settlement]] in which a
 references:
 
 [[settlement procedure]]
+
+#margin 

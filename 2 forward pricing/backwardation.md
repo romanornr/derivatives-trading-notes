@@ -110,3 +110,7 @@ This is because the price of the futures contract will be lower than the price o
 As a result, the trader will not receive as much money for each tick that the price moves in their favor. If the market is in [[contango]], the [[variation payment]] will be higher than if the market was in [[backwardation]].
 
 This is because the price of the [[futures contract]] will be higher than the price of the [[underlying]] [[commodity]]. As a result, the trader will receive more money for each tick that the price moves in their favor.
+
+
+<br>
+#futures #options 

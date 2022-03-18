@@ -28,3 +28,6 @@ Forward contracts must be paid in full immediately, and all gains and losses rem
 
 On **[[options]]** earnings or losses remain **unrealized PNL** until the position is liquidated
 -> **forward contracts** PNL is realized at contract [[expiration date]]
+
+
+#futures 

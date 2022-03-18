@@ -6,3 +6,6 @@ This helps to **protect the exchange from losing money** if the trader doesn't f
 <br>
 
 Prices can fluctuate wile the position is open, and the exchange will periodically adjust the amount of money that the trader needs to keep in their account to reflect this.
+
+
+#margin 
