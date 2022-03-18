@@ -64,9 +64,65 @@ ___
 #### [[commodity]]
 
 
+If you buy a physical [[commodity]], you will have to pay the current price together with the interest on this amount. Additionally, you will have to store the commodity until the [[maturity]] of the [[forward contract]].
+
+
 The fair forward price for a physical [[commodity]] is the current cash price + the interest on this amount, the storage costs, and the insurance costs all multiplied by the time to maturity of the forward contract.
 
-  
-If the cash price of the commodity is greater than the future price, the market is in [[backwardation]], which may be due to a [[convenience yield]].
 
-If the company needs the [[commodity]] right now to keep its factory running, the company may be willing to pay an inflated price to obtain the [[commodity]] right now, which could result in a backward market.
+```
+C = commodity price
+t = time to maturity of the forward contract
+r = interest rate 
+s = annual storage costs per commodity unit
+i = annual insurance costs per commodity unit
+
+The forward price F can be written as F = C × (1 + r × t) + (s × t) + (i × t)
+
+```
+
+
+
+Initially, it may **seem** that there are **no benefits** to buying a physical commodity, so the basis should always be negative.
+
+But sometimes the opposite occurs . A [[futures contract]] will **trade at a discount** to the spot price.
+If the spot price of a commodity is greater than a futures price, the market is backward or in [[backwardation]].
+
+
+___
+
+
+**[[Backwardation]] : When?**
+
+
+
+This seems illogical because the [[interest rate]] and [[storage cost]] will always be positive. 
+
+
+ How about considering a company that needs a [[commodity]] to keep its factory running? If the company cannot obtain the commodity, it may have to take the very costly step of temporarily closing the factory. In the company's view, the cost of such drastic action may be prohibitive.
+ 
+ To avoid this situation, the utmost important interested company may be willing to pay an inflated price to obtain the [[commodity]] right now. 
+ 
+ If commodity supplies are tight, the price that the company may have to pay could result in a backward market . The spot price will be greater than the price of a [[futures contract]].
+ 
+ The benefit of obtaining a commodity right now is sometimes referred to as a [[convenience yield]]. It can be challenging to assign an exact value to the [[convenience yield]]. however, if interest costs, [[storage cost]],and insurance costs are known, a trader can infer the [[convenience yield]] by observing the relationship between the cash price and futures price
+
+<br>
+
+___
+
+<br>
+
+#### risks 
+
+<br>
+
+Some of the risks associated with trading commodities in a [[backwardation]] market include:
+
+1) The possibility of having to make physical [[delivery]] of the commodity. If the [[futures contract]] expires and the market is still in [[backwardation]], the trader may have to pay for [[storage cost]] and insurance costs while holding the [[commodity]].
+
+2) The possibility of the market moving out of [[backwardation]] before the contract [[expiration date]]. If this happens, the trader will be stuck with a [[futures contract]] at a higher price than the spot price of the commodity.
+
+3) The possibility of the market going into [[contango]] before the contract expires. This could lead to the trader having to sell the commodity at a lower price than the spot price.
+
+4) The possibility of the market going into [[contango]] and staying there until the contract expires. If this happens, the trader will have to pay storage and insurance costs on the commodity while it is in storage.

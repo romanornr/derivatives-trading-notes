@@ -13,6 +13,8 @@ Obsidian is a powerful **knowledge base** on top of a **local folder** of plain 
 
 2. Forward pricing 
 * [[forward price]]
+* [[contango]]
+* [[backwardation]]
 * [[dividend]]
 
 3. [[options]] terminology  
@@ -40,5 +42,8 @@ Expand your perspective to include this point in further settings. With a single
 
 <br>
 ___
+
+<br>
+
 
 Romano

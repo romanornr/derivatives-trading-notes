@@ -9,6 +9,7 @@ This benefit is due to the fact that the holder of the commodity can choose when
 ___
 
 <br>
+
 ### [[forward price]]
 
 When calculating the fair price of a [[forward contract]], the convenience yield should be taken into account. The convenience yield is usually small relative to other factors, such as the interest rate, but it can be significant in some cases.
@@ -26,11 +27,15 @@ This **yield** is **often positive** for a [[commodity]] like oil, because **peo
 * -> The **convenience yield** should be taken into account when **calculating** the **fair price** for a **[[forward contract]]**
 
 <br>
+
 ___
 
 <br>
 
 ####  key points
+
+<br>
+
 There are a few key points to remember when studying convenience yield:
 
 1. Convenience yield is the **extra return** that an **investor earns** from **holding a physical [[commodity]]** rather than a financial instrument ([[futures contract]]) that tracks the price of the [[commodity]].

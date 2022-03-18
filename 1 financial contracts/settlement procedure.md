@@ -38,7 +38,9 @@ This is basically a [[cash transaction]] with the **exchange making both [[deliv
 An **exchange** is a marketplace where assets are bought and sold. **The transaction is considered a [[cash transaction]]** since the buyer and seller agree on the price.  
 
 <br>
+
 ___
+
 <br>
 
 ### futures type settlement 
@@ -53,6 +55,7 @@ A **futures contract is a forward contract**
 <br>
 
 ___
+
 <br>
 
 #### [[maturity]]
@@ -64,6 +67,7 @@ At contract [[maturity]]
 
 
 ___
+
 <br>
 
 ### [[margin]]
@@ -75,6 +79,7 @@ ___
 * -> An exchange will try to set margin requirements high enough so that the exchange is reasonably protected against default but not so high that it inhibits trading.  
 
 <br>
+
 ___
 
 <br>
@@ -93,6 +98,7 @@ If the position moves against the trader, he may be forced to close the position
 * -> Even though deposited with the exchange, margin deposits still belong to the trader and earn interest for the trader.
 
 <br>
+
 ___
 
 <br>
@@ -115,6 +121,8 @@ If the price of the futures contract falls
 
 If the price of the futures contract rises
 * -> the long position makes money, and the short position loses money.
+
+<br>
 
 ___
 
@@ -162,6 +170,7 @@ These three variables –
 * Changes in the [[underlying]] contract's price – all affect the option's price and, subsequently, the option's return.
 
 <br>
+
 ___
 
 <br>
