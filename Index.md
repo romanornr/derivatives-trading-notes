@@ -11,11 +11,14 @@ Obsidian is a powerful **knowledge base** on top of a **local folder** of plain 
 * [[settlement procedure]]  
 * [[market Integrity]]
 
-<br>
+2. Forward pricing 
+* [[forward price]]
+* [[dividend]]
 
-3. in progress [[dividend]]<br>
-4. [[options]] terminology<br>
-5. [[expiration profit and loss]]<br>
+3. [[options]] terminology  
+4. [[expiration profit and loss]]
+
+<br>
 
 #### Everything is connected<br>
 ![[puzzle_lain.jpg]]

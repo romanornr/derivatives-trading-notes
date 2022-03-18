@@ -6,7 +6,9 @@ is the **current cash price** + **the costs of buying now** - **the benefits of 
 ``the current cash price + the costs of buying now - minus the benefits of buying now.``
 
 <br>
+
 ___
+
 <br>
 
 Let's say you have a friend who wants to buy a piece of land to build a restaurant on.
@@ -31,7 +33,10 @@ So, the fair forward price for the land should be $100,000
 * -> In this case would be $6,220.
 
 <br>
+
 ___
+
+<br>
 
 ### main factors for the fair forward price
 
@@ -43,10 +48,25 @@ There are 4 main factors to consider when calculating the fair forward price of 
 
 3. The [[convenience yield]]: This is the benefit of having the commodity now rather than later.
 
-4. The dividend yield: This is the benefit of receiving dividends from the underlying asset.
+4. The [[dividend yield]]: This is the benefit of receiving dividends from the underlying asset.
 
 <br>
 
 In **most cases**, the **fair forward price** will be **lower** than the current **spot price**.
 * *-> This is because the **costs of buying** now typically **outweigh the benefits**.
 
+<br>
+
+___
+
+<br>
+
+#### [[commodity]]
+
+
+The fair forward price for a physical [[commodity]] is the current cash price + the interest on this amount, the storage costs, and the insurance costs all multiplied by the time to maturity of the forward contract.
+
+  
+If the cash price of the commodity is greater than the future price, the market is in [[backwardation]], which may be due to a [[convenience yield]].
+
+If the company needs the [[commodity]] right now to keep its factory running, the company may be willing to pay an inflated price to obtain the [[commodity]] right now, which could result in a backward market.

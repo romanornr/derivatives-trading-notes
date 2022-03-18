@@ -1,4 +1,4 @@
-A debit is when the buyer of a [[futures contract]] is **charged money** from the exchange.  
+A debit is when the **buyer** of a [[futures contract]] is **charged money** from the exchange.  
 
 **A Debit** is an amount of money that is owed
 * -> while a [[credit]] is an amount of money that is available.
@@ -9,6 +9,11 @@ If they have a [[credit]] balance, the credit card company owes them money.
 
 When trading [[futures contract]] and [[options]], a **debit is an amount of money that a trader owes to their broker**.  
 
+<br>
+
+___
+
+<br>
 
 ### [[credit]]
 A [[credit]] is an amount of money that the broker owes to the trader.
@@ -16,6 +21,12 @@ A [[credit]] is an amount of money that the broker owes to the trader.
 [[credit]] and [[debit]] can also refer to the profit or loss on a trade.
 
 If a trade is profitable, the trader has made a credit. If the trade is not profitable, the trader has made a debit.
+
+<br>
+
+___
+
+<br>
 
 ### [[options]]
 
@@ -27,6 +38,10 @@ This is because the trader must pay the full value of the option to the broker u
 A [[credit]] can occur when a trader sells an option. In this case, the trader receives the [[premium]] from the person buying the option from them.
 
 
+<br>
+___
+
+<br>
 
 #### [[futures contract]] trading
 

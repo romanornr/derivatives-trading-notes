@@ -44,7 +44,7 @@ What happens if the commodity's price later climbs to $80?
  
  * As long as the position is active
  
- * -> the daily variation credit or debit is caused by movements in the price of the futures contract.
+ * -> the daily variation [[credit]] or [[debit]] is caused by movements in the price of the [[futures contract]].
 
 Margin and variation settlement refers to [[futures-type settlement]] in which an initial margin deposit is followed by daily [[cash transaction]]
 
