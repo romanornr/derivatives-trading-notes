@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1 financial contracts/delivery.md",
+            "file": "3 contract specifications and option terminology/exercise.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "exerci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,14 +70,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 financial contracts/delivery.md",
+                "file": "3 contract specifications and option terminology/exercise.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           }
@@ -88,15 +89,15 @@
   },
   "active": "b06303ad13684a39",
   "lastOpenFiles": [
+    "3 contract specifications and option terminology/exercise.md",
+    "3 contract specifications and option terminology/strike price.md",
+    "3 contract specifications and option terminology/automatic exercise.md",
+    "3 contract specifications and option terminology/call option.md",
+    "3 contract specifications and option terminology/physical settlement.md",
+    "3 contract specifications and option terminology/exercised.md",
+    "3 contract specifications and option terminology/exercise and assignment.md",
     "1 financial contracts/delivery.md",
-    "1 financial contracts/credit.md",
-    "1 financial contracts/futures transactions.md",
-    "1 financial contracts/futures options.md",
-    "2 forward pricing/contango.md",
-    "2 forward pricing/backwardation.md",
-    "2 forward pricing/bonds/treasury bond.md",
-    "2 forward pricing/bonds/municipal bonds.md",
-    "2 forward pricing/bonds/mortgage-backed securities.md",
-    "2 forward pricing/bonds/corporate bonds.md"
+    "1 financial contracts/obligation.md",
+    "2 forward pricing/backwardation.md"
   ]
 }

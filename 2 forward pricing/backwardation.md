@@ -113,4 +113,15 @@ This is because the price of the [[futures contract]] will be higher than the pr
 
 
 <br>
+
+___
+
+<br>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B3V7Go_CNkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br>
+
 #futures #options 

@@ -43,7 +43,7 @@ If the buyer of an option decides to make or accept delivery
 <br>
 [[exercise and assignment]]:  The exercise price of [[options]] is the price at which the option may be exercised. The buyers exercise and the sellers are assigned. 
 <br>
-[[settlement into the physical underlying]]: 
+[[3 contract specifications and option terminology/physical settlement]]: 
 <br>
 [[settlement into the futures position]]: 
 <br>

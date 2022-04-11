@@ -134,5 +134,16 @@ In general, higher interest rates are associated with higher future prices, and 
 
 The relationship between interest rates and contango is not always linear, however. There are other factors that can affect the price of a [[commodity]] in the future, such as demand and supply.
 
+<br>
+
+
+___
+
+
+<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B3V7Go_CNkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
 
 #futures #options 
