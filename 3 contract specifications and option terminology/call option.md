@@ -1,7 +1,7 @@
   
-A call option gives the buyer the right, but not the [[obligation]], to buy a security at a set price within a certain period of time.
+A call option gives the buyer the right, but not the [[obligation]], to buy asset at a predetermined price ([[strike price]]) at an [[expiration date]] in the future. 
 
-Options are often used by investors as a way to hedge against adverse price movements in the [[underlying]] asset. For example, a stock investor who owns shares of ABC Company might purchase a call option on ABC Company stock as a way to protect against a decline in the stock price.
+Investors often use options to hedge against adverse price movements in the [underlying](underlying) asset.
 
 <br>
 

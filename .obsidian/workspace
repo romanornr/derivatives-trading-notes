@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 contract specifications and option terminology/exercise.md",
+            "file": "1 financial contracts/margin deposit.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exerci",
+                "query": "physical",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 contract specifications and option terminology/exercise.md",
+                "file": "1 financial contracts/margin deposit.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "b06303ad13684a39",
   "lastOpenFiles": [
-    "3 contract specifications and option terminology/exercise.md",
-    "3 contract specifications and option terminology/strike price.md",
-    "3 contract specifications and option terminology/automatic exercise.md",
-    "3 contract specifications and option terminology/call option.md",
-    "3 contract specifications and option terminology/physical settlement.md",
-    "3 contract specifications and option terminology/exercised.md",
-    "3 contract specifications and option terminology/exercise and assignment.md",
+    "1 financial contracts/margin deposit.md",
+    "1 financial contracts/cash-settled.md",
     "1 financial contracts/delivery.md",
-    "1 financial contracts/obligation.md",
-    "2 forward pricing/backwardation.md"
+    "2 forward pricing/backwardation.md",
+    "3 contract specifications and option terminology/call option.md",
+    "physically settled.md",
+    "2 forward pricing/forward price.md",
+    "2 forward pricing/contango.md",
+    "2 forward pricing/bonds/municipal bonds.md",
+    "2 forward pricing/bonds/bond.md"
   ]
 }

@@ -9,28 +9,52 @@ is the **current cash price** + **the costs of buying now** - **the benefits of 
 
 ___
 
-<br>
 
-Let's say you have a friend who wants to buy a piece of land to build a restaurant on.
+## Forward price
 
-He's considering either buying it now or buying it in a year through a [[forward contract]].
-* -> if he buys it now, he'll have to pay the asking price of $100,000.  
+To understand the “forward price” better, let’s take an example:
 
-<br>
+You have a friend who wants to buy land to build a restaurant. He’s considering buying it now or buying it in 1 year through a forward contract.
+
+If he buys it now, he’ll have to pay the asking price of $100k
 
 But if he buys it through a [[forward contract]]
-* -> he'll have to pay the costs of buying now, which include the interest on the cash price, the real estate taxes, and the interest on the taxes.
 
+There is also a tiny oil well on the property that pumps oil at $500 per month, and the oil provides a monthly revenue source.
 
+He’ll have to pay the costs of buying now, including the interest on the cash price, the real estate taxes, and the interest on the taxes.
 
-He also knows that if he buys it now
-* -> he'll get $6,000 worth of oil revenue from a small oil well on the land
-* -> plus interest on that revenue
+He also knows that if he buys it now, he will have to borrow $100k from the local bank with an interest rate of 8%.
 
-So, the fair forward price for the land should be $100,000
--> plus the costs of buying now
--> minus the benefits of buying now
-* -> In this case would be $6,220.
+    8% * $10k = $8k
+
+If he buys the land now, he’s charged $2,000 in property taxes due in nine months. He would need to borrow $2,000 from the bank for the remaining three months of the forward contract to pay the taxes.
+
+    $2000 + ($2000 * 8% * 3/12) = $2000 + $40
+
+He will get $6000 in oil money from a little oil well on the property plus interest on that revenue.
+
+    ($500 * 8% * 11/12) + (500 * 8% * 10/12) + ... + ($500 * 8% * 1/12) = $220
+
+The total benefits of buying now are the oil income plus the oil revenue’s interest rate:
+
+    $6000 + $220 = $6220
+
+So
+
+    The current cash price:    $100000
+    + cost of borrowing:     + $10040
+    - benefits buying now:   - $$6220
+                           _________
+                             $103820
+
+Traders in “forward” or “futures” contracts sometimes refer to the “basis,” the difference between the “cash price” and the “forward price.”
+
+    $100 000 - $103 820 = -$3820
+
+In most cases, the basis will be a negative number. The cost of buying now will outweigh the benefits of buying now. However, in our example, the “basis” will turn positive if the oil price rises enough.
+
+How should the fair forward price for exchanges for exchange-traded futures contracts be calculated? That depends on the cost and benefits associated with the position in the underlying contract.
 
 <br>
 
@@ -105,7 +129,7 @@ This seems illogical because the [[interest rate]] and [[storage cost]] will alw
  
  If commodity supplies are tight, the price that the company may have to pay could result in a backward market . The spot price will be greater than the price of a [[futures contract]].
  
- The benefit of obtaining a commodity right now is sometimes referred to as a [[convenience yield]]. It can be challenging to assign an exact value to the [[convenience yield]]. however, if interest costs, [[storage cost]],and insurance costs are known, a trader can infer the [[convenience yield]] by observing the relationship between the cash price and futures price
+ The benefit of obtaining a commodity right now is sometimes referred to as a [[convenience yield]]. It can be challenging to assign an exact value to the [[convenience yield]]. however, if interest costs, [[storage cost]], and insurance costs are known, a trader can infer the [[convenience yield]] by observing the relationship between the cash price and futures price
 
 <br>
 
